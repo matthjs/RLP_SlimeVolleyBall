@@ -1,3 +1,8 @@
+This repository contains Pytorch implementations of various reinforcement learning
+algorithms.
+
+These algorithms are applied to the SlimeVolleyGym environment.
+
 Running the code (also requirements.txt):
 
 Use
